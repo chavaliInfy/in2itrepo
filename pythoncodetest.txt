@@ -1,4 +1,4 @@
-
+# Define a function to check if the password is strong enough
 # Define a function to check if the password is strong enough
 def password_checker(password):
     # Define the criteria for a strong password
